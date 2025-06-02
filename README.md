@@ -11,9 +11,3 @@ Um aplicativo web que permite cadastrar modelos de carros com seus preços e exp
   - Cabeçalhos personalizados
   - Ajuste automático de largura das colunas
   - Nome de arquivo personalizado
-
-## Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/gerador-excel-carros.git
